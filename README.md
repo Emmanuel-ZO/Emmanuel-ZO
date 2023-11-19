@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Me llamo Emmanuel Zúñiga</h1>
+<h1 align="center">Hola 👋, me llamo Emmanuel Zúñiga</h1>
 <h3 align="center">Soy Ingeniero en Sistemas Computacionales</h3>
 
 - 🌱 I’m currently learning **Django, OpenCV, y Spring**
