@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django, OpenCV, y Spring**
 
-- 📫 How to reach me **devzuol@gmail.com**
+- 📫 How to reach me **dev.zuol@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
